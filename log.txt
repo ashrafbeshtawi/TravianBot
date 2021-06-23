@@ -1,0 +1,752 @@
+2020-08-21 15:30:46.714988
+https://ts1.arabics.travian.com: upgrade building id:21
+https://ts1.arabics.travian.com: upgrade building id:15
+2020-08-21 16:00:58.094628
+https://ts1.arabics.travian.com: upgrade building id:14
+https://tx3.travian.com: upgrade building id:6
+https://tx3.travian.com: new adventure 
+2020-08-21 16:30:48.284982
+https://ts1.arabics.travian.com: upgrade building id:10
+https://tx3.travian.com: upgrade building id:30
+2020-08-21 17:01:05.703850
+https://tx3.travian.com: upgrade building id:26
+2020-08-21 17:30:47.340460
+https://ts1.arabics.travian.com: upgrade building id:37
+2020-08-22 13:01:00.147752
+https://ts1.arabics.travian.com: upgrade building id:18
+https://tx3.travian.com: upgrade building id:20
+https://tx3.travian.com: new adventure 
+2020-08-22 13:30:53.873468
+https://tx3.travian.com: upgrade building id:7
+https://tx3.travian.com: new adventure 
+2020-08-22 14:00:57.600566
+https://ts1.arabics.travian.com: upgrade building id:2
+https://ts1.arabics.travian.com: new building id:19
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:4
+https://tx3.travian.com: new adventure 
+2020-08-22 14:31:31.186595
+https://tx3.travian.com: upgrade building id:40
+2020-08-22 15:00:53.282338
+https://tx3.travian.com: new adventure 
+2020-08-22 15:30:59.967378
+https://ts1.arabics.travian.com: upgrade building id:13
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:15
+2020-08-22 16:00:52.626282
+https://tx3.travian.com: upgrade building id:31
+2020-08-22 16:30:45.082671
+https://ts1.arabics.travian.com: upgrade building id:16
+https://tx3.travian.com: upgrade building id:18
+https://tx3.travian.com: new adventure 
+2020-08-22 17:00:51.281446
+https://tx3.travian.com: upgrade building id:16
+2020-08-22 17:30:47.391153
+https://ts1.arabics.travian.com: upgrade building id:8
+https://tx3.travian.com: upgrade building id:22
+2020-08-22 18:00:51.853250
+https://tx3.travian.com: upgrade building id:38
+2020-08-22 18:30:45.362900
+https://ts1.arabics.travian.com: upgrade building id:12
+https://tx3.travian.com: upgrade building id:36
+2020-08-22 19:00:53.035227
+https://tx3.travian.com: upgrade building id:13
+2020-08-22 19:30:51.097042
+https://tx3.travian.com: upgrade building id:26
+2020-08-22 20:00:55.026422
+https://ts1.arabics.travian.com: upgrade building id:26
+2020-08-22 20:30:49.853151
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:5
+2020-08-22 21:00:50.435055
+https://tx3.travian.com: upgrade building id:13
+2020-08-22 21:30:48.274695
+https://ts1.arabics.travian.com: upgrade building id:4
+https://tx3.travian.com: upgrade building id:38
+2020-08-22 22:00:49.473565
+https://tx3.travian.com: upgrade building id:39
+2020-08-22 22:30:50.655911
+https://ts1.arabics.travian.com: upgrade building id:37
+https://tx3.travian.com: upgrade building id:35
+2020-08-22 23:00:53.551474
+https://tx3.travian.com: upgrade building id:31
+2020-08-22 23:30:51.995320
+https://tx3.travian.com: upgrade building id:31
+2020-08-23 00:00:50.371824
+https://ts1.arabics.travian.com: upgrade building id:1
+https://tx3.travian.com: upgrade building id:20
+2020-08-23 00:30:53.033299
+https://tx3.travian.com: upgrade building id:28
+2020-08-23 01:00:52.186403
+https://ts1.arabics.travian.com: upgrade building id:22
+https://tx3.travian.com: upgrade building id:26
+https://tx3.travian.com: new adventure 
+2020-08-23 01:30:51.731809
+2020-08-23 02:00:54.355823
+https://ts1.arabics.travian.com: upgrade building id:9
+https://tx3.travian.com: upgrade building id:39
+2020-08-23 02:30:52.191691
+https://tx3.travian.com: upgrade building id:4
+2020-08-23 03:00:51.068124
+https://tx3.travian.com: upgrade building id:26
+2020-08-23 03:30:50.382225
+https://ts1.arabics.travian.com: upgrade building id:37
+2020-08-23 04:00:53.934812
+https://tx3.travian.com: upgrade building id:17
+2020-08-23 04:30:53.318453
+https://tx3.travian.com: upgrade building id:22
+2020-08-23 05:00:54.489738
+https://ts1.arabics.travian.com: upgrade building id:22
+https://tx3.travian.com: upgrade building id:17
+2020-08-23 05:30:52.525180
+2020-08-23 06:00:49.918289
+https://tx3.travian.com: upgrade building id:10
+2020-08-23 06:30:52.082229
+https://ts1.arabics.travian.com: upgrade building id:33
+https://tx3.travian.com: upgrade building id:16
+2020-08-23 07:00:50.932636
+https://tx3.travian.com: upgrade building id:31
+2020-08-23 07:30:51.111287
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:9
+2020-08-23 08:00:54.007845
+https://ts1.arabics.travian.com: upgrade building id:31
+https://tx3.travian.com: upgrade building id:9
+2020-08-23 08:30:47.689656
+https://tx3.travian.com: upgrade building id:24
+2020-08-23 09:00:46.168683
+https://ts1.arabics.travian.com: upgrade building id:39
+https://tx3.travian.com: upgrade building id:9
+2020-08-23 09:30:46.664932
+https://tx3.travian.com: upgrade building id:26
+2020-08-23 10:00:52.974169
+https://ts1.arabics.travian.com: upgrade building id:40
+2020-08-23 10:30:48.894971
+2020-08-23 11:00:51.768914
+https://tx3.travian.com: upgrade building id:18
+2020-08-23 11:30:50.338796
+https://ts1.arabics.travian.com: upgrade building id:31
+2020-08-23 12:00:53.111908
+https://tx3.travian.com: upgrade building id:3
+2020-08-23 12:30:49.923497
+https://tx3.travian.com: upgrade building id:40
+2020-08-23 13:00:49.490897
+2020-08-23 13:30:46.694642
+https://ts1.arabics.travian.com: upgrade building id:6
+https://tx3.travian.com: upgrade building id:9
+2020-08-23 14:00:47.447042
+https://ts1.arabics.travian.com: upgrade building id:32
+https://ts1.arabics.travian.com: upgrade building id:12
+2020-08-23 14:31:12.814472
+https://ts1.arabics.travian.com: upgrade building id:18
+https://tx3.travian.com: upgrade building id:38
+2020-08-23 15:00:58.151707
+https://tx3.travian.com: upgrade building id:10
+2020-08-23 15:30:53.370432
+https://ts1.arabics.travian.com: new building id:35
+https://tx3.travian.com: upgrade building id:3
+2020-08-23 16:00:51.354094
+https://ts1.arabics.travian.com: upgrade building id:17
+https://tx3.travian.com: upgrade building id:36
+2020-08-23 16:30:51.269457
+https://ts1.arabics.travian.com: upgrade building id:3
+https://tx3.travian.com: upgrade building id:33
+2020-08-23 17:00:51.025671
+2020-08-23 17:30:48.454729
+https://ts1.arabics.travian.com: upgrade building id:11
+https://tx3.travian.com: upgrade building id:4
+https://tx3.travian.com: new adventure 
+2020-08-23 18:00:48.294709
+https://tx3.travian.com: upgrade building id:30
+2020-08-23 18:30:49.536716
+https://tx3.travian.com: upgrade building id:20
+https://tx3.travian.com: new adventure 
+2020-08-23 19:00:52.988312
+https://ts1.arabics.travian.com: upgrade building id:4
+https://tx3.travian.com: upgrade building id:30
+https://tx3.travian.com: new adventure 
+2020-08-23 19:30:49.816674
+https://tx3.travian.com: upgrade building id:7
+https://tx3.travian.com: new adventure 
+2020-08-23 20:00:46.235536
+2020-08-23 20:30:46.402459
+https://ts1.arabics.travian.com: upgrade building id:25
+https://tx3.travian.com: upgrade building id:39
+https://tx3.travian.com: new adventure 
+2020-08-23 21:00:46.582932
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:33
+2020-08-23 21:30:45.990668
+https://ts1.arabics.travian.com: new building id:30
+2020-08-23 22:00:49.209179
+https://tx3.travian.com: new building id:27
+2020-08-23 22:30:45.196095
+https://tx3.travian.com: new building id:19
+2020-08-23 23:00:46.922628
+https://ts1.arabics.travian.com: new building id:23
+https://tx3.travian.com: upgrade building id:6
+2020-08-23 23:30:46.470833
+https://ts1.arabics.travian.com: upgrade building id:30
+https://tx3.travian.com: upgrade building id:26
+2020-08-24 00:00:55.362327
+https://ts1.arabics.travian.com: upgrade building id:14
+https://tx3.travian.com: new adventure 
+2020-08-24 11:30:54.455056
+https://ts1.arabics.travian.com: upgrade building id:26
+https://tx3.travian.com: new adventure 
+2020-08-24 12:03:17.665794
+https://tx3.travian.com: upgrade building id:12
+2020-08-24 12:30:48.314564
+https://tx3.travian.com: upgrade building id:24
+https://tx3.travian.com: new adventure 
+2020-08-24 13:00:53.394428
+https://tx3.travian.com: new building id:21
+2020-08-24 13:30:50.424108
+https://ts1.arabics.travian.com: upgrade building id:39
+https://ts1.arabics.travian.com: upgrade building id:5
+https://tx3.travian.com: upgrade building id:38
+2020-08-24 14:00:52.788380
+https://ts1.arabics.travian.com: upgrade building id:15
+2020-08-24 14:30:53.306040
+https://tx3.travian.com: upgrade building id:3
+2020-08-24 15:00:52.314550
+https://ts1.arabics.travian.com: upgrade building id:30
+https://tx3.travian.com: new building id:34
+2020-08-24 15:30:53.712979
+https://tx3.travian.com: upgrade building id:28
+2020-08-24 16:00:57.256536
+https://ts1.arabics.travian.com: upgrade building id:30
+https://tx3.travian.com: upgrade building id:27
+2020-08-24 16:30:51.975075
+https://tx3.travian.com: upgrade building id:4
+2020-08-24 17:00:55.125602
+https://ts1.arabics.travian.com: upgrade building id:16
+https://tx3.travian.com: upgrade building id:16
+2020-08-24 17:30:52.517769
+https://tx3.travian.com: upgrade building id:22
+2020-08-24 18:00:56.326535
+2020-08-24 18:30:56.397948
+https://ts1.arabics.travian.com: upgrade building id:31
+https://tx3.travian.com: new building id:25
+2020-08-24 19:00:54.363488
+https://tx3.travian.com: upgrade building id:29
+2020-08-24 19:30:49.962257
+https://ts1.arabics.travian.com: upgrade building id:21
+https://tx3.travian.com: upgrade building id:33
+2020-08-24 20:00:55.392110
+2020-08-24 20:31:04.893330
+https://tx3.travian.com: upgrade building id:3
+2020-08-24 21:00:56.524999
+https://ts1.arabics.travian.com: upgrade building id:13
+2020-08-24 21:30:57.246179
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:22
+2020-08-24 22:00:53.737978
+2020-08-24 22:31:19.416470
+https://ts1.arabics.travian.com: upgrade building id:8
+https://tx3.travian.com: upgrade building id:15
+2020-08-24 23:00:53.887741
+https://tx3.travian.com: upgrade building id:8
+2020-08-24 23:30:50.582513
+https://tx3.travian.com: upgrade building id:27
+2020-08-25 00:00:50.664148
+https://ts1.arabics.travian.com: upgrade building id:33
+https://tx3.travian.com: upgrade building id:8
+2020-08-25 00:30:50.684010
+https://tx3.travian.com: new building id:37
+https://tx3.travian.com: new adventure 
+2020-08-25 01:00:52.934203
+https://ts1.arabics.travian.com: upgrade building id:9
+https://tx3.travian.com: upgrade building id:12
+2020-08-25 01:30:51.845215
+https://ts1.arabics.travian.com: new building id:27
+https://tx3.travian.com: upgrade building id:22
+https://tx3.travian.com: new adventure 
+2020-08-25 02:00:50.039307
+https://ts1.arabics.travian.com: new building id:20
+https://tx3.travian.com: new adventure 
+2020-08-25 02:30:49.207147
+https://ts1.arabics.travian.com: new building id:38
+https://tx3.travian.com: upgrade building id:36
+https://tx3.travian.com: new adventure 
+2020-08-25 03:00:50.041510
+https://ts1.arabics.travian.com: new building id:24
+https://tx3.travian.com: upgrade building id:38
+2020-08-25 03:30:49.194508
+https://ts1.arabics.travian.com: upgrade building id:26
+2020-08-25 04:00:49.892579
+https://tx3.travian.com: upgrade building id:34
+2020-08-25 04:30:52.916041
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:20
+2020-08-25 05:00:57.611870
+2020-08-25 05:30:54.107653
+https://ts1.arabics.travian.com: upgrade building id:13
+https://tx3.travian.com: upgrade building id:39
+2020-08-25 06:00:55.762197
+https://ts1.arabics.travian.com: new building id:29
+https://tx3.travian.com: upgrade building id:23
+https://tx3.travian.com: new adventure 
+2020-08-25 06:30:52.813132
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:36
+2020-08-25 07:00:50.972787
+https://ts1.arabics.travian.com: new building id:34
+2020-08-25 07:30:52.296206
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:20
+2020-08-25 08:00:51.398120
+https://ts1.arabics.travian.com: upgrade building id:32
+2020-08-25 08:30:51.081891
+https://tx3.travian.com: upgrade building id:7
+2020-08-25 09:00:50.241202
+2020-08-25 09:30:53.897943
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:29
+2020-08-25 10:00:53.612412
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:6
+2020-08-25 10:30:52.992965
+https://ts1.arabics.travian.com: upgrade building id:21
+https://tx3.travian.com: upgrade building id:38
+2020-08-25 11:00:52.720099
+2020-08-25 11:30:54.168310
+https://tx3.travian.com: upgrade building id:28
+2020-08-25 12:00:57.895046
+https://ts1.arabics.travian.com: upgrade building id:29
+https://ts1.arabics.travian.com: upgrade building id:7
+https://tx3.travian.com: upgrade building id:32
+https://tx3.travian.com: new adventure 
+2020-08-25 12:30:51.523475
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:40
+2020-08-25 13:00:57.611541
+https://ts1.arabics.travian.com: new building id:36
+2020-08-25 13:30:43.016361
+https://ts1.arabics.travian.com: upgrade building id:24
+2020-08-25 14:00:52.595544
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:20
+2020-08-25 14:30:50.846979
+https://ts1.arabics.travian.com: upgrade building id:24
+2020-08-25 15:00:55.447880
+https://ts1.arabics.travian.com: upgrade building id:36
+https://tx3.travian.com: upgrade building id:33
+2020-08-25 15:30:54.183365
+https://ts1.arabics.travian.com: upgrade building id:20
+2020-08-25 16:01:06.599402
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:24
+2020-08-25 16:30:57.215461
+https://ts1.arabics.travian.com: upgrade building id:31
+2020-08-25 17:01:00.573042
+https://tx3.travian.com: upgrade building id:35
+2020-08-25 17:30:56.040069
+https://tx3.travian.com: upgrade building id:27
+2020-08-25 18:00:52.785549
+https://ts1.arabics.travian.com: upgrade building id:21
+https://tx3.travian.com: upgrade building id:9
+2020-08-25 18:30:46.889774
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:14
+2020-08-25 19:00:46.498018
+https://tx3.travian.com: upgrade building id:32
+2020-08-25 19:30:45.499029
+https://tx3.travian.com: upgrade building id:40
+https://tx3.travian.com: new adventure 
+2020-08-25 20:00:47.159112
+https://ts1.arabics.travian.com: upgrade building id:20
+2020-08-25 20:30:46.753314
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:2
+2020-08-25 21:00:45.279965
+https://tx3.travian.com: upgrade building id:28
+2020-08-25 21:30:44.660184
+https://ts1.arabics.travian.com: upgrade building id:8
+https://tx3.travian.com: upgrade building id:27
+2020-08-25 22:00:46.470520
+https://ts1.arabics.travian.com: upgrade building id:36
+https://tx3.travian.com: upgrade building id:16
+2020-08-25 22:30:47.786764
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:37
+2020-08-25 23:00:54.003616
+https://tx3.travian.com: upgrade building id:23
+2020-08-25 23:30:51.933917
+https://ts1.arabics.travian.com: upgrade building id:37
+https://tx3.travian.com: upgrade building id:18
+2020-08-26 00:00:49.370157
+2020-08-26 00:30:47.839642
+https://ts1.arabics.travian.com: upgrade building id:1
+https://tx3.travian.com: upgrade building id:26
+2020-08-26 01:00:48.113377
+https://ts1.arabics.travian.com: upgrade building id:36
+2020-08-26 01:30:48.786102
+https://ts1.arabics.travian.com: upgrade building id:36
+https://tx3.travian.com: new adventure 
+2020-08-26 02:00:51.086962
+https://ts1.arabics.travian.com: upgrade building id:38
+https://tx3.travian.com: upgrade building id:27
+2020-08-26 02:30:45.506506
+https://ts1.arabics.travian.com: upgrade building id:38
+https://tx3.travian.com: upgrade building id:1
+2020-08-26 03:00:46.838157
+https://ts1.arabics.travian.com: upgrade building id:24
+2020-08-26 03:30:57.322847
+https://tx3.travian.com: upgrade building id:2
+2020-08-26 04:00:46.946484
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:39
+2020-08-26 04:30:46.124994
+https://ts1.arabics.travian.com: upgrade building id:3
+https://tx3.travian.com: upgrade building id:35
+2020-08-26 05:00:54.431780
+https://ts1.arabics.travian.com: upgrade building id:20
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:25
+2020-08-26 05:30:47.206476
+https://ts1.arabics.travian.com: upgrade building id:20
+https://tx3.travian.com: upgrade building id:38
+2020-08-26 06:00:47.271352
+https://ts1.arabics.travian.com: upgrade building id:34
+2020-08-26 06:30:45.982001
+https://ts1.arabics.travian.com: upgrade building id:20
+https://tx3.travian.com: upgrade building id:32
+2020-08-26 07:00:46.327590
+https://tx3.travian.com: upgrade building id:26
+2020-08-26 07:30:47.055440
+https://ts1.arabics.travian.com: upgrade building id:26
+2020-08-26 08:00:46.807684
+2020-08-26 08:30:47.160501
+https://tx3.travian.com: upgrade building id:11
+https://tx3.travian.com: new adventure 
+2020-08-26 09:00:48.145881
+2020-08-26 09:30:49.205976
+https://ts1.arabics.travian.com: upgrade building id:16
+2020-08-26 10:00:48.493862
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:38
+https://tx3.travian.com: new adventure 
+2020-08-26 10:30:47.425381
+2020-08-26 11:00:47.298616
+https://ts1.arabics.travian.com: upgrade building id:34
+2020-08-26 11:30:54.472568
+https://ts1.arabics.travian.com: upgrade building id:34
+https://tx3.travian.com: upgrade building id:37
+2020-08-26 12:00:51.575878
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:20
+2020-08-26 12:30:46.416316
+2020-08-26 13:00:51.359066
+https://tx3.travian.com: upgrade building id:2
+2020-08-26 13:30:47.611136
+https://ts1.arabics.travian.com: upgrade building id:36
+2020-08-26 14:00:50.359360
+2020-08-26 14:30:47.450699
+https://ts1.arabics.travian.com: upgrade building id:6
+https://tx3.travian.com: upgrade building id:32
+2020-08-26 15:00:50.823026
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:27
+2020-08-26 15:30:52.324781
+https://tx3.travian.com: upgrade building id:31
+2020-08-26 16:00:48.825209
+https://ts1.arabics.travian.com: upgrade building id:38
+2020-08-26 16:30:47.918267
+https://ts1.arabics.travian.com: upgrade building id:29
+2020-08-26 17:00:45.449882
+https://tx3.travian.com: upgrade building id:26
+https://tx3.travian.com: new adventure 
+2020-08-26 17:30:44.014344
+https://ts1.arabics.travian.com: upgrade building id:36
+2020-08-26 18:00:43.174522
+2020-08-26 18:30:51.218958
+https://ts1.arabics.travian.com: upgrade building id:20
+https://ts1.arabics.travian.com: new adventure 
+2020-08-26 19:00:55.232104
+https://tx3.travian.com: upgrade building id:35
+2020-08-26 19:30:51.089667
+https://ts1.arabics.travian.com: upgrade building id:23
+https://tx3.travian.com: upgrade building id:40
+2020-08-26 20:00:52.776152
+2020-08-26 20:30:50.287657
+https://ts1.arabics.travian.com: upgrade building id:30
+https://tx3.travian.com: upgrade building id:34
+2020-08-26 21:01:19.696371
+https://tx3.travian.com: upgrade building id:39
+2020-08-26 21:30:46.406742
+https://ts1.arabics.travian.com: upgrade building id:17
+https://tx3.travian.com: upgrade building id:22
+2020-08-26 22:00:57.555371
+https://ts1.arabics.travian.com: upgrade building id:27
+2020-08-26 22:30:58.868903
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:25
+2020-08-26 23:00:46.482375
+https://tx3.travian.com: upgrade building id:13
+2020-08-26 23:30:44.641067
+https://ts1.arabics.travian.com: upgrade building id:36
+https://tx3.travian.com: upgrade building id:10
+2020-08-27 00:00:44.129562
+https://tx3.travian.com: upgrade building id:16
+2020-08-27 00:30:43.034329
+https://ts1.arabics.travian.com: upgrade building id:38
+https://tx3.travian.com: upgrade building id:32
+https://tx3.travian.com: new adventure 
+2020-08-27 01:00:49.504223
+https://ts1.arabics.travian.com: upgrade building id:38
+https://tx3.travian.com: upgrade building id:33
+2020-08-27 01:30:45.979421
+2020-08-27 02:00:51.884159
+https://ts1.arabics.travian.com: upgrade building id:37
+https://tx3.travian.com: upgrade building id:13
+2020-08-27 02:30:49.891366
+https://tx3.travian.com: upgrade building id:10
+2020-08-27 03:00:49.924245
+https://tx3.travian.com: upgrade building id:10
+2020-08-27 03:30:49.179749
+https://ts1.arabics.travian.com: upgrade building id:20
+2020-08-27 04:00:52.135461
+https://tx3.travian.com: upgrade building id:34
+2020-08-27 04:30:50.655188
+https://ts1.arabics.travian.com: upgrade building id:34
+https://tx3.travian.com: upgrade building id:20
+2020-08-27 05:00:52.077468
+https://ts1.arabics.travian.com: upgrade building id:39
+2020-08-27 05:30:49.053792
+https://tx3.travian.com: upgrade building id:5
+2020-08-27 06:00:52.155293
+https://tx3.travian.com: upgrade building id:20
+https://tx3.travian.com: new adventure 
+2020-08-27 06:30:51.533161
+https://ts1.arabics.travian.com: upgrade building id:20
+2020-08-27 07:00:51.643148
+2020-08-27 07:30:54.774882
+https://tx3.travian.com: upgrade building id:21
+2020-08-27 08:00:46.110490
+https://ts1.arabics.travian.com: upgrade building id:40
+https://tx3.travian.com: upgrade building id:11
+2020-08-27 08:30:46.980100
+2020-08-27 09:00:48.855988
+https://ts1.arabics.travian.com: upgrade building id:7
+https://ts1.arabics.travian.com: new adventure 
+2020-08-27 09:30:47.916653
+https://ts1.arabics.travian.com: upgrade building id:38
+2020-08-27 10:00:48.352010
+https://tx3.travian.com: upgrade building id:34
+2020-08-27 10:30:51.089017
+https://ts1.arabics.travian.com: upgrade building id:22
+https://tx3.travian.com: upgrade building id:19
+https://tx3.travian.com: new adventure 
+2020-08-27 11:00:51.806771
+https://tx3.travian.com: upgrade building id:9
+2020-08-27 11:30:54.377959
+2020-08-27 12:00:51.877541
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:19
+2020-08-27 12:30:49.948402
+https://ts1.arabics.travian.com: upgrade building id:10
+https://tx3.travian.com: upgrade building id:13
+2020-08-27 13:00:53.105703
+https://ts1.arabics.travian.com: upgrade building id:34
+2020-08-27 13:30:48.602791
+https://tx3.travian.com: upgrade building id:16
+2020-08-27 14:08:39.065824
+https://ts1.arabics.travian.com: upgrade building id:36
+2020-08-27 14:30:50.721903
+https://tx3.travian.com: upgrade building id:15
+https://tx3.travian.com: new adventure 
+2020-08-27 15:00:53.800036
+2020-08-27 15:30:51.166156
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:34
+2020-08-27 16:00:54.871578
+https://tx3.travian.com: upgrade building id:40
+2020-08-27 16:30:57.603433
+2020-08-27 17:01:10.177213
+https://ts1.arabics.travian.com: upgrade building id:22
+2020-08-27 17:31:04.437486
+https://tx3.travian.com: upgrade building id:31
+2020-08-27 18:00:52.675356
+2020-08-27 18:30:49.458242
+https://tx3.travian.com: upgrade building id:17
+2020-08-27 19:00:51.264673
+https://ts1.arabics.travian.com: upgrade building id:38
+2020-08-27 19:30:54.512316
+https://tx3.travian.com: upgrade building id:6
+2020-08-27 20:00:54.032398
+https://ts1.arabics.travian.com: upgrade building id:5
+https://tx3.travian.com: upgrade building id:14
+2020-08-27 20:30:52.866061
+https://ts1.arabics.travian.com: upgrade building id:34
+https://tx3.travian.com: upgrade building id:27
+2020-08-27 21:00:50.936636
+https://tx3.travian.com: upgrade building id:3
+https://tx3.travian.com: new adventure 
+2020-08-27 21:30:48.237553
+https://ts1.arabics.travian.com: upgrade building id:38
+2020-08-27 22:00:48.796413
+https://tx3.travian.com: upgrade building id:19
+2020-08-27 22:30:50.278501
+https://tx3.travian.com: upgrade building id:31
+2020-08-27 23:00:46.978700
+https://ts1.arabics.travian.com: upgrade building id:25
+2020-08-27 23:30:51.006242
+https://tx3.travian.com: upgrade building id:12
+2020-08-28 00:01:17.250915
+https://ts1.arabics.travian.com: upgrade building id:27
+2020-08-28 00:30:46.509509
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:22
+2020-08-28 01:00:48.582275
+https://ts1.arabics.travian.com: upgrade building id:38
+2020-08-28 01:30:47.944264
+https://tx3.travian.com: upgrade building id:34
+2020-08-28 02:00:50.575250
+https://tx3.travian.com: upgrade building id:16
+2020-08-28 02:30:48.923942
+https://ts1.arabics.travian.com: upgrade building id:40
+https://tx3.travian.com: new adventure 
+2020-08-28 03:00:53.583865
+2020-08-28 03:30:50.693832
+https://tx3.travian.com: upgrade building id:36
+2020-08-28 04:00:50.817656
+https://ts1.arabics.travian.com: upgrade building id:32
+2020-08-28 04:30:47.182602
+https://tx3.travian.com: upgrade building id:39
+2020-08-28 05:00:51.567464
+https://tx3.travian.com: upgrade building id:10
+2020-08-28 05:30:50.753809
+2020-08-28 06:00:49.926306
+https://ts1.arabics.travian.com: upgrade building id:31
+2020-08-28 06:30:51.799420
+https://ts1.arabics.travian.com: new adventure 
+https://tx3.travian.com: upgrade building id:19
+2020-08-28 07:00:50.989387
+https://tx3.travian.com: upgrade building id:35
+2020-08-28 07:30:52.539203
+https://ts1.arabics.travian.com: upgrade building id:20
+https://tx3.travian.com: upgrade building id:31
+https://tx3.travian.com: new adventure 
+2020-08-28 08:01:19.964375
+2020-08-28 08:30:49.549102
+https://tx3.travian.com: upgrade building id:37
+2020-08-28 09:00:50.828219
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:6
+2020-08-28 09:30:50.303850
+https://tx3.travian.com: upgrade building id:37
+2020-08-28 10:00:52.557489
+https://ts1.arabics.travian.com: upgrade building id:15
+https://tx3.travian.com: upgrade building id:23
+2020-08-28 10:30:50.582605
+https://tx3.travian.com: upgrade building id:25
+2020-08-28 11:00:52.512017
+https://ts1.arabics.travian.com: upgrade building id:34
+https://tx3.travian.com: upgrade building id:39
+2020-08-28 11:30:50.242651
+2020-08-28 12:01:00.629043
+https://ts1.arabics.travian.com: upgrade building id:27
+https://tx3.travian.com: upgrade building id:40
+2020-08-28 12:30:52.594795
+2020-08-28 13:00:55.729164
+https://tx3.travian.com: new adventure 
+2020-08-28 13:30:56.221603
+https://ts1.arabics.travian.com: upgrade building id:36
+https://tx3.travian.com: upgrade building id:26
+2020-08-28 14:01:04.222671
+2020-08-28 14:30:56.916973
+2020-08-28 15:00:59.750126
+https://ts1.arabics.travian.com: upgrade building id:34
+2020-08-28 15:30:55.055420
+https://tx3.travian.com: upgrade building id:13
+2020-08-28 16:00:59.382378
+https://ts1.arabics.travian.com: upgrade building id:9
+2020-08-28 16:30:51.831273
+2020-08-28 17:00:55.827728
+https://tx3.travian.com: upgrade building id:8
+2020-08-28 17:30:54.886410
+https://ts1.arabics.travian.com: upgrade building id:29
+https://tx3.travian.com: upgrade building id:28
+2020-08-28 18:01:06.264921
+https://tx3.travian.com: upgrade building id:39
+2020-08-28 18:31:02.647558
+2020-08-28 19:01:07.016346
+https://ts1.arabics.travian.com: upgrade building id:40
+https://tx3.travian.com: upgrade building id:15
+2020-08-28 19:31:01.939085
+https://tx3.travian.com: new adventure 
+2020-08-28 20:00:46.896076
+2020-08-28 20:30:45.454126
+https://ts1.arabics.travian.com: upgrade building id:4
+https://tx3.travian.com: upgrade building id:29
+2020-08-28 21:00:48.127646
+https://tx3.travian.com: upgrade building id:6
+2020-08-28 21:30:48.868015
+2020-08-28 22:00:49.751227
+https://ts1.arabics.travian.com: upgrade building id:24
+https://tx3.travian.com: upgrade building id:12
+https://tx3.travian.com: new adventure 
+2020-08-28 22:30:51.178940
+2020-08-28 23:00:49.569282
+2020-08-28 23:30:55.904075
+https://ts1.arabics.travian.com: upgrade building id:25
+https://tx3.travian.com: upgrade building id:4
+2020-08-29 00:00:57.456254
+2020-08-29 00:30:51.050572
+https://tx3.travian.com: upgrade building id:9
+2020-08-29 01:00:51.878570
+https://ts1.arabics.travian.com: upgrade building id:39
+2020-08-29 01:30:49.173364
+https://ts1.arabics.travian.com: new adventure 
+2020-08-29 02:00:53.658911
+https://tx3.travian.com: upgrade building id:14
+2020-08-29 02:30:52.772460
+https://tx3.travian.com: upgrade building id:38
+2020-08-29 03:00:52.185919
+https://ts1.arabics.travian.com: upgrade building id:22
+2020-08-29 03:35:16.536285
+2020-08-29 04:00:53.551465
+https://tx3.travian.com: upgrade building id:14
+https://tx3.travian.com: new adventure 
+2020-08-29 04:30:50.841525
+2020-08-29 05:00:52.148634
+https://tx3.travian.com: upgrade building id:7
+2020-08-29 05:30:50.869485
+https://ts1.arabics.travian.com: upgrade building id:21
+2020-08-29 06:00:50.009848
+2020-08-29 06:30:50.046652
+https://tx3.travian.com: upgrade building id:14
+2020-08-29 07:00:52.306498
+https://ts1.arabics.travian.com: upgrade building id:12
+2020-08-29 07:30:54.416873
+https://tx3.travian.com: upgrade building id:28
+2020-08-29 08:00:54.753378
+https://ts1.arabics.travian.com: upgrade building id:37
+https://tx3.travian.com: upgrade building id:35
+https://tx3.travian.com: new adventure 
+2020-08-29 08:30:48.788068
+https://tx3.travian.com: upgrade building id:29
+2020-08-29 09:00:54.137209
+2020-08-29 09:30:53.293805
+https://tx3.travian.com: upgrade building id:1
+2020-08-29 10:00:53.605772
+https://ts1.arabics.travian.com: upgrade building id:26
+2020-08-29 10:30:54.723433
+https://tx3.travian.com: upgrade building id:33
+2020-08-29 11:00:50.739074
+2020-08-29 11:30:56.363607
+https://tx3.travian.com: upgrade building id:20
+2020-08-29 12:00:48.987884
+2020-08-29 12:30:48.463753
+https://ts1.arabics.travian.com: upgrade building id:11
+https://ts1.arabics.travian.com: new adventure 
+2020-08-29 13:00:45.476304
+https://tx3.travian.com: upgrade building id:40
+2020-08-29 13:30:43.868132
+https://ts1.arabics.travian.com: upgrade building id:23
+2020-08-29 14:00:45.795946
+2020-08-29 14:30:46.457740
+https://tx3.travian.com: new adventure 
+2020-08-29 15:00:46.786415
+https://tx3.travian.com: upgrade building id:13
